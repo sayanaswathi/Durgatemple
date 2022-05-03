@@ -1,0 +1,38 @@
+const TableData=[
+    { TempleName:"Sri Rukmini Satyabhama Sametha Venugopala Swamy Temple", Village:'Hamsaladeevi', District:"Krishna"},
+    { TempleName:"Sri Rukmini Satyabhama Sametha Venugopala Swamy Temple", Village:'Movva', District:"Krishna"},
+    { TempleName:"Sri Siddehdra Yogi Mandiram", Village:"Godugupet, Machilipatnam", District:"Krishna"},
+    { TempleName:"Sri Venkateswara Swamy Temple", Village:"Kuchipudi", District: "Krishna"},
+    { TempleName:"Sri Venkateswara Swamy Temple", Village: "Nimmakuru", District: "Krishna"},
+    { TempleName:"Sri Brahmaramba Mallikharjuna Swamy Temple", Village: "Peddaogirala", District:"Krishna"},
+    { TempleName:"Sri Gowri sametha Kedareswara Swamy Temple", Village: "Seetharampuram", District:"Krishna"},
+    { TempleName:"Sri Kodanda Rama Swamy Temple", Village: "Gudavalli", District:"Krishna"},
+    { TempleName:"Sri Rama Lingeswara Swamy Temple", Village: "Gudavalli", District:"Krishna"},
+    { TempleName:"Sri Seetharama Swamy Temple", Village: "Tadigadapa, Vijayawada Rural", District:"Krishna"},
+    { TempleName:"Sri Seetharamaa Swamy Temple", Village: "Enikepadu, Vijayawada Rural", District:"Krishna"},
+    { TempleName:"Sri Vasantha Venu Gopala & Anjeneya Swamy Temple", Village: "Poranki, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Vasantha Mallikharjuna Swamy Temple",Village:"Brahmin Street, Vijayawada" ,District:"Krishna"},
+    { TempleName:"Sri Vasantha Mallikharjuna Swamy Temple",Village:"Brahmin Street, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Prathyaksha Saneeswara Swamy Temple", Village: "Seethammavari Paadalu, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Venu Gopala Swamy Temple",Village:"Kothapeta, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Visweswara Swamy Temple",Village:"Gollapudi, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Venu Gopala Swamy Temple",Village:"Gollapudi, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Seetharama Swamy Temple",Village:"Pydurupadu, Vijayawada Rural", District:"Krishna"},
+    { TempleName:"Sri Santhaana Venu Gopala Swamy & Anjaneya Swamy Temple",Village:"Kowluru, G.Konduru Mandal", District:"Krishna"},
+    { TempleName:"Sri Tripuranthakeswara Temple	",Village:"Ibrahimpatnam", District:"Krishna"},
+    { TempleName:"Sri Anjaneya Swamy Temple",Village:"Kotikalapudi (V), Ibrahimpatnam (M)", District:"Krishna"},
+    { TempleName:"Sri Laxminarayana Swamy Mandir",Village:"Gulabchand Street, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Rajarajeswara Swamy Temple",Village:"Nidamanur, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Venugopala Swamy Temple",Village:"Vellaturu, G.Konduru (M)", District:"Krishna"},
+    { TempleName:"Sri PanduRanga Vittaleswara & Bhavani SankaraSwamy TempleKothuru",Village:"Tadepalli (V)", District:"Krishna"},
+    { TempleName:"Sri Sri Sobhanadri Lakshmi Nrusimha Swamy Varla Veda Sastra Patasala",Village:"Agiripalli (V)", District:"Krishna"},
+    { TempleName:"Sri Challam Raju Venkata Seshaiah Choultry",Village:"Samarangam Chowk, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Ramalingeswara Swamy Temple",Village:"Polakampadu (V), Tadepalli (M)", District:"Guntur"},
+    { TempleName:"Sri Pattabhi Rama Swamy Temple",Village:"Kolanukonda (V), Tadepalli(M)", District:"Guntur"},
+    { TempleName:"Sri Avadhoota Arogyasadanam Trust",Village:"Patamata, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Avadhoota Tapovanam Trust",Village:"Patamata, Vijayawada", District:"Krishna"},
+    { TempleName:"Sri Maddi Veeranjaneya Kodandaraama Swamy Temple",Village:"Seetanagaram, Vijayawada", District:"Guntur"}
+
+
+]
+export default TableData;

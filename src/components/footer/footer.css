@@ -1,0 +1,31 @@
+
+.main-footer{
+    color: rgb(255, 252, 252);
+    background-color:rgb(250, 114, 30);
+    padding-top: 2em;
+    position: relative;
+    bottom: 0;
+}
+.col{
+    justify-content: center;
+    margin-right: 0px;
+    width: 33%;
+   
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+ul{
+list-style: none;
+}
+.col-sm{
+    font-size: 20px;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }

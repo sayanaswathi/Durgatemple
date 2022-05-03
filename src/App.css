@@ -1,0 +1,148 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.page-img{
+  width: 1000px;
+  height: 500px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ 
+.page_heading{
+  color: green;
+  font-size: 25px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.page-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.page-info{
+  color: rgb(107, 99, 99);
+  font-size: 20px;
+  text-align: justify;
+  margin: 15px 15px 15px 15px;
+}
+.tb_name{
+  border-radius: 1px;
+  border-style: double;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  border-color: bisque;
+}
+.tb_name1{
+  border-radius: 1px;
+}
+.post{
+  width: 250px;
+  margin: 0px 25px 40px 25px;
+}
+.postImg{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 7px;
+  margin-top: 10px;
+}
+.postInfo{
+  display: flex;
+  align-items: center;
+}
+.postCat{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 11px;
+  color: #be5695;
+  line-height: 20px;
+  margin-top: 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.postTitle{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 15px;
+  cursor: pointer;
+  margin-left: 60px;
+  text-decoration-line: underline;
+}
+.postDate{
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 13px;
+  color: #999;
+  margin-top: 15px;
+}
+
+.postDesc{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 14px;
+  color: #444;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.App-link {
+  color: #61dafb;
+}
+/*Adopted temples*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  
+}
+th{
+  text-align: left;
+  color: #fefefe;
+  background-color: rgb(141, 69, 69);
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.temples{
+  color: rgb(17, 71, 19);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
